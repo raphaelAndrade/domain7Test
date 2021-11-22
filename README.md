@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Frontend
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -28,6 +29,16 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Backend
+### `npm install`
+
+Inside the folder api, install all dependeces to run the backend.
+
+### `npm start`
+Runs the backend in the development mode.\
+Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
+
 
 ### `yarn eject`
 
@@ -68,8 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# domain7
-# domain7
-# domain7
-# domain7Test
-# domain7Test
+
